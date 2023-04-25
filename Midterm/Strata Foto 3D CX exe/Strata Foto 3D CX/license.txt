@@ -1,0 +1,200 @@
+LICENSE AGREEMENT
+
+This License Agreement ("Agreement") is a legal agreement between Corastar, Inc.
+("Corastar") and you, the user of this Corastar software program ("Software"). You
+agree to be bound by the terms of this Agreement by installing, copying, or using
+the Software. If you do not agree, do not install, copy, or use the Software. You
+understand that the Software is licensed to you, not sold, and that all right, title and
+interest in and to the Software remains vested in Corastar and its licensors.
+
+1. Corastar grants you the following rights provided that you comply with all
+terms and conditions of this Agreement and that you make payment to Corastar of
+the applicable license fees for the Software. This grant of license to you is nonexclusive:
+
+1.1 You may:
+(a) install the Software on one personal computer or other device (or on a network
+storage device, such as a server computer, and allow one access device, such as a
+personal computer, to access and use the Software over a private network);
+(b) physically transfer the program from one computer to another, provided the
+program is used on only one computer at a time;
+
+2.2 You may not:
+(a) use the Software in any service bureau, timesharing or rental arrangement;
+(b) allow use of the Software by any third party (except for reasonable use by third
+party service providers for the benefit of you, the licensee).
+
+3. Corastar reserves all rights not expressly granted to you in this Agreement.
+The Software is protected by copyright and other intellectual property laws and
+treaties. Corastar or its suppliers own the title, copyright, and other intellectual
+property rights in the Software. The Software is licensed, not sold. This Agreement
+does not grant you any rights to trademarks or service marks of Corastar or its
+licensors.
+
+4. You may not reverse engineer, decompile, or disassemble the Software,
+except and only to the extent that such activity is expressly permitted by applicable
+law notwithstanding this limitation. You may not rent, lease or lend the Software, or
+make the functionality of the Software available as a hosted service.
+
+5. Update Policy: In order to be able to obtain updates of the program you, the
+licensee, must complete and return the Registration Card included in the package
+to Corastar, Inc. or, in place of mailing in the physical registration card, register the
+Software at the Strata website. IF THIS SOFTWARE IS NOT REGISTERED WITH
+CORASTAR., CORASTAR, INC. IS UNDER NO OBLIGATION TO MAKE
+AVAILABLE TO YOU ANY UPDATES EVEN THOUGH YOU HAVE MADE
+PAYMENT OF THE APPLICABLE UPDATE FEE.
+
+6. You acknowledge that the Software is subject to U.S. export jurisdiction.
+You agree to comply with all applicable international and national laws that apply
+to the Software, including the U.S. Export Administration Regulations, as well as
+end-user, end-use, and destination restrictions issued by U.S. and other
+governments.
+
+7. You may transfer your copy of the Software to two different computer devices
+- such as a home computer and an office computer. However, both machines must
+remain under your control and the licensed copy granted to you herein can only be
+used by you, and on one machine at a time. After the transfer, and in the event that
+you lose control of one of the devices (such as the sale of, or reassignment of, the
+computer device) you must completely remove the Software from that device.
+However, you may not assign this Agreement without Corastar's prior written
+consent.
+
+8. Without prejudice to any other rights, Corastar may terminate this Agreement
+if you fail to comply with the terms and conditions of this Agreement. In such event,
+you must destroy all copies of the Software and all of its component parts. This
+license is effective until terminated. You may terminate it by destroying the program
+and documentation and all copies thereof.
+
+9. Corastar and its suppliers provide the Software AS IS AND WITH ALL
+FAULTS, and hereby disclaim all warranties and conditions, whether express,
+implied or statutory, including, but not limited to, any (if any) implied warranties,
+duties or conditions of merchantability, of fitness for a particular purpose, of
+reliability or availability, of accuracy or completeness of responses, of results, of
+workmanlike effort, of lack of viruses, and of lack of negligence. ALSO, THERE IS
+NO WARRANTY OR CONDITION OF TITLE, QUIET ENJOYMENT, QUIET
+POSSESSION, CORRESPONDENCE TO DESCRIPTION OR NONINFRINGEMENT
+WITH REGARD TO THE SOFTWARE.
+
+10. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO
+EVENT SHALL CORASTAR OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL,
+INCIDENTAL, PUNITIVE, INDIRECT, OR CONSEQUENTIAL DAMAGES
+WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF
+PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS
+INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR
+FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF
+REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY
+OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED
+TO THE USE OF OR INABILITY TO USE THE SOFTWARE, THE PROVISION OF
+OR FAILURE TO PROVIDE SUPPORT OR OTHER SERVICES, INFORMATON,
+SOFTWARE, AND RELATED CONTENT THROUGH THE SOFTWARE OR
+OTHERWISE ARISING OUT OF THE USE OF THE SOFTWARE, OR OTHERWISE
+UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS AGREEMENT,
+EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE),
+MISREPRESENTATION, STRICT LIABILITY, BREACH OF CONTRACT OR
+BREACH OF WARRANTY OF CORASTAR OR ANY SUPPLIER, AND EVEN IF
+CORASTAR OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+IN NO EVENT WILL COMPANY'S DIRECTORS, OFFICERS, EMPLOYEES, OR
+AGENTS (COLLECTIVELY "PERSONNEL") BE LIABLE TO YOU FOR ANY
+CONSEQUENTIAL, INCIDENTAL, OR INDIRECT DAMAGES (INCLUDING
+DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION,
+LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE
+OF, OR INABILITY TO USE, THE SOFTWARE EVEN IF THE PERSONNEL HAVE
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME
+STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR
+CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATIONS MAY
+NOT APPLY TO YOU.
+
+IN NO EVENT WILL COMPANY'S LICENSOR(S), AND THEIR DIRECTORS,
+OFFICERS, EMPLOYEES, OR AGENTS (COLLECTIVELY "COMPANY'S
+LICENSOR") BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL, OR
+INDIRECT DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS
+PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND
+THE LIKE) ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE
+SOFTWARE EVEN IF COMPANY'S LICENSOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES DO NOT ALLOW
+THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR
+INCIDENTAL DAMAGES, THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+
+11. Notwithstanding any damages that you might incur for any reason
+whatsoever (including, without limitation, all damages referenced herein and all
+direct or general damages in contract or anything else), the entire liability of
+Corastar and any of its suppliers under any provision of this Agreement and your
+exclusive remedy hereunder shall be limited to the amount actually paid by you for
+the Software. The foregoing limitations, exclusions and disclaimers shall apply to
+the maximum extent permitted by applicable law, even if any remedy fails its
+essential purpose.
+
+12. All Software provided to the U.S. Government pursuant to solicitations
+issued on or after December 1, 1995 is provided with the commercial license rights
+and restrictions described elsewhere herein. All Software provided to the U.S.
+Government pursuant to solicitations issued prior to December 1, 1995 is provided
+with "Restricted Rights" as provided for in FAR, 48 CFR 52.227-14 (JUNE 1987) or
+DFAR, 48 CFR 252.227-7013 (OCT 1988), as applicable.
+
+13. This Agreement is governed by the laws of the state of Utah, USA, except as
+to copyright and trademark matters, which are covered by United States laws and
+international treaties. This License Agreement is deemed entered into at St.
+George, Utah. This License Agreement shall inure to the benefit of Corastar, Inc., its
+successors, administrators, heirs and assigns. This Agreement is the entire
+agreement between you and Corastar relating to the Software and supersedes all
+prior or contemporaneous oral or written communications, proposals and
+representations with respect to the Software or any other subject matter covered by
+this Agreement. If any provision of this Agreement is held to be void, invalid,
+unenforceable or illegal, the other provisions shall continue in full force and effect.
+
+Copyright and legal notices
+Software developed by Creative Dimension Software Ltd.
+
+Copyright
+Portions Copyright (c) 2006 - 2012 Corastar, Inc.,
+Copyright (c) 2005 - 2012, Creative Dimension Software Ltd. All rights reserved.
+
+Limited portions may be copyright of the following licensors:
+Adobe Systems Incorporated
+Apple Computer Inc.
+Microsoft Inc.
+Sun Micro Systems Inc.
+
+Disclaimer
+While every precaution has been taken in the preparation of this document, the
+publisher assumes no responsibility for errors or omissions, or for damages
+resulting from the use of the information within this document. The publisher
+reserves the right to make any modification to this document, or to the contents of
+this document, at any time without notice.
+
+Limitations
+Except as permitted by license, no part of this manual may be reproduced, stored in
+a retrieval system, or transmitted in any form or by any means - electronic,
+mechanical, or otherwise - without prior written permission of Corastar, Inc.
+Files provided for various tutorial examples presented in this manual may also be
+protected under copyright law. The unauthorized use of such artwork or images in
+your projects could be a violation of the rights of the authors. Please be sure to
+obtain any permission required from such authors.
+
+Trademarks
+Strata, Enfold 3D, Live 3D, Foto 3D, Strata 3D, Design 3D and Strata 3D CX, are
+trademarks of Corastar, Inc., which may be registered in some jurisdictions. Ekso
+and EskoArtwork are trademarks of Esko NV. Adobe®, Adobe Photoshop®, Adobe
+Illustrator®, ATM®, Adobe Acrobat®, Macromedia, Flash and Macromedia Flash
+are trademarks of Adobe System Incorporated. Apple®, Macintosh®, and
+QuickTime® are trademarks of Apple Inc., registered in the United States and other
+countries. Windows® is a trademark of Microsoft Corporation. OpenGL is a
+registered trademark of Silicon Graphics, Inc. All other products or name brands
+are trademarks of their respective holders.
+
+For defense agencies, this product is subject to use, reproduction and disclosure
+restrictions as set forth in sub-paragraph (c)(1)(ii) of the Right in Technical Data
+and Computer Software clause at 252.227-7013.
+
+For civilian agencies, this product is subject to use, reproduction and disclosure
+restrictions set forth in sub-paragraph (a) through (d) of the commercial Computer
+Software Restricted Rights clause at 52.227-19 and the limitations set forth in
+
+Corastar, Inc.'s standard commercial license agreement included with this software.
+Unpublished rights reserved under copyright laws of the United States.
+
+Acknowledgments: The JPEG support software is based in part on the work of the
+Independent JPEG Group.
+All other trademarks and registered trademarks are trademarks or registered
+trademarks of their respective owner.
